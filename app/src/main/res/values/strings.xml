@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapsApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_connection">No Internet connection. Please check your connection and touch to refresh</string>
+</resources>
